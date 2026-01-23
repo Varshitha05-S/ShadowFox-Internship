@@ -22,6 +22,7 @@ LoanAmount	Loan amount requested
 Loan_Amount_Term	Loan duration (in months)
 Credit_History	Credit score (1 = good, 0 = bad)
 Property_Area	Urban / Semiurban / Rural
+
 🎯 Target Variable
 Column	Description
 Loan_Status	Y = Approved, N = Not Approved
