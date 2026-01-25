@@ -1,7 +1,9 @@
 🚀 ShadowFox Internship – Project Repository
 
 👩‍💻 Intern Name: Varshitha Samiappan
+
 📚 Internship Program: ShadowFox Virtual Internship
+
 🧠 Domain: Artificial Intelligence & Machine Learning 
 
 🟢 Beginner Level Task
