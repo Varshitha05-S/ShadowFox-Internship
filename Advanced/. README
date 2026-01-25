@@ -1,1 +1,31 @@
 
+📄 Text Summarization using Transformer Models
+
+✨ Overview
+This project implements an AI-based text summarization system using a pre-trained Transformer model (BART). It generates short and meaningful summaries from long text inputs. This project is part of the Advanced Level Task of the ShadowFox Internship.
+
+🎯 Objective
+To reduce long text into concise summaries while preserving important information and demonstrating the use of modern NLP models.
+
+🛠 Tools Used
+• Python
+• Google Colab
+• Hugging Face Transformers
+• BART Model
+• Matplotlib
+
+⚙ Methodology
+The model takes a long paragraph as input and produces a clean summary. The results are evaluated using word count comparison and simple graphs.
+
+📊 Evaluation & Results
+✔ Reduced text length effectively
+✔ Maintained key ideas
+✔ Generated neat and readable summaries
+✔ Visualized results using bar graphs
+
+⚠ Limitations
+• Fine details may be omitted
+• Advanced evaluation metrics were not used
+
+✅ Conclusion
+This project shows how transformer-based models can be effectively used for text summarization, fulfilling the requirements of an Advanced NLP Internship Task.
