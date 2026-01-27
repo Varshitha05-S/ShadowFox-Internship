@@ -17,6 +17,7 @@ This project focuses on predicting house prices using basic machine learning tec
 It helped in understanding data preprocessing, feature selection, and regression models.
 
 Key Learnings:
+
 • Basics of machine learning  
 • Data preprocessing  
 • Model training and evaluation  
@@ -31,6 +32,7 @@ This project predicts whether a loan application will be approved based on appli
 It strengthened knowledge of classification algorithms and real-world dataset handling.
 
 Key Learnings:
+
 • Feature engineering  
 • Classification models  
 • Model performance evaluation  
@@ -46,6 +48,7 @@ The system converts long text into short, meaningful summaries and evaluates per
 using word count analysis and simple visual graphs.
 
 Key Features: 
+
 • Transformer-based NLP model  
 • Clean and concise summaries  
 • Word count comparison  
